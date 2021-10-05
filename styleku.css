@@ -1,0 +1,163 @@
+body	{
+	overflow-x: hidden;
+}
+
+.containerku	{
+
+	background-color: #fff;
+	height: 2900px;
+}
+
+.bg-light {
+	background-color: #659A6B !important;
+}
+
+.navbar 	{
+	margin: 0px !important;
+}
+
+.documentation	{
+	color: whitesmoke;
+	opacity: 0.5;
+}
+
+.documentation:hover	{
+	opacity: .7;
+}
+
+.bungkusKata1	{
+	/*background-color: red;*/
+}
+
+.bungkusKata1 h2	{
+	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 2px;
+}
+
+.illustrating	{
+	color: #C82525;
+}
+
+.bungkusKata2	{
+	background-color: none;
+	width: 80%;
+	margin-left: auto;
+	font-size: 10px;
+	color: salmon;
+}
+.bungkusKata2 h2	{
+	font-size: 22px;
+	text-indent: 40px;
+}
+
+.bungkuskatanya	{
+	background-color: none;
+	width: 85%;
+	margin-top: 20px;
+	margin-right: -50px;
+}
+
+.garis	{
+	position: relative;
+	width: 80%;
+	margin: 0px auto;
+	top: 50px;
+}
+
+
+.garisku	{
+	width: 100%;
+}
+
+.bungkusKata3 h2	{
+	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1px;
+}
+.bungkusKata3	{
+	text-align: center;
+}
+
+.spanduk	{
+	height: 12%;
+	overflow: auto;
+	background-image: url("gambar/ilustrasi2(editan).png");
+	background-size: cover;
+	background-position: 0px -310px;
+	margin-top: 30px;
+	margin-right: 0px;
+	border-bottom: 15px solid #916BBF;
+	border-top: 15px solid #C82525;
+}
+
+.bungkus-kartu	{
+	margin: 0px auto;
+	/*background-color: red;*/
+	width: 100%;
+}
+.bungkus-kartu-betul	{
+	margin: 0px auto;
+	background-color: blueviolet;
+	width: 90%;
+	height: 470px;
+	border-radius: 10px;
+	opacity: 0.7;
+	transition: 0.4s;
+	box-shadow: 10px 10px 5px 0px black;
+}
+
+.kartunya	{
+	margin-top: 27px;
+	transition: 0.4s;
+	opacity: 0.9;
+	box-shadow: 0px 30px 5px -20px black;
+
+}
+
+.bungkus-kartu-betul:hover .kartunya	{
+	margin-top: 10px !important;
+	opacity: 1;
+	box-shadow: 0px 50px 5px -40px rgba(0, 0, 0, 0.5);
+	
+}
+.bungkus-kartu-betul:hover	{
+	opacity: 1;
+}
+
+.bungkus-plan	{
+	background-color: #cfcfcf;
+	height: 23%;
+	margin-right: 0px;
+}
+
+.bottom-nav	{
+	background-color: #292626;
+	height: 400px;
+	border-top: 10px solid salmon;
+}
+
+.bungkus-rencana	{
+	background-color: greenyellow;
+	height: 4%;
+	position: ;
+}
+
+.container-content-bottom-nav	{
+	width: 95%;
+	height: 90%;
+	margin-top: 20px;
+}
+
+.bungkus-perusahaan	{
+	margin-top: 2px;
+}
+
+.ulku li a 	{
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+.ulku li a:hover	{
+	text-decoration: underline;
+}
